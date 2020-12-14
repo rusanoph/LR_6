@@ -1,14 +1,11 @@
-# LR6
-Лабораторная работа №6
-
 #Отчет о лабораторной работе №6
-####Выполнил:<br/> студент группы 4918 Русанов М. В.
+##Выполнил:<br/> студент группы 4918 Русанов М. В.
 
 **Цель работы:**  изучение базовых возможностей системы управления версиями, опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием.
 
 **Ход работы:**
 Первым делом я создал аккаунт на сайте GitHub:
-![Аккаунтт GitHub](https://sun9-62.userapi.com/impf/bw2K_hoX7LdRUXk4D1oc1UHeoqecCVqD1HXx6A/cIPutvufKkI.jpg?size=422x254&quality=96&proxy=1&sign=6aadbdcda2833bf117165afeb367e00b&type=album)
+![Аккаунтт GitHub](https://sun9-62.userapi.com/impf/bw2K_hoX7LdRUXk4D1oc1UHeoqecCVqD1HXx6A/cIPutvufKkI.jpg?size=422x254&quality=96&proxy=1&sign=6aadbdcda2833bf117165afeb367e00b&type=album)<br/>
 *Рис 1. Аккаунт GitHub*
 
 Следующим шагом я сделал копию из [https://github.com/Kurtyanik/LR6/](https://github.com/Kurtyanik/LR6/):
@@ -25,7 +22,7 @@
 *Рис 4. История коммитов*
 
 Далее я создал новую ветку newBranch и создал файл file2.txt в репозитории, после чего сделал пару коммитов. Затем перешёл в master и выполнил слияние командой `$ git merge newBranch`:
-![Слияние newBranch в master](https://sun9-41.userapi.com/impf/kJzKUVX4bHxDtTTpS55FL45bdJ3xKFptnIHgkA/EEqQ0J6PpKs.jpg?size=378x150&quality=96&proxy=1&sign=65631be4eb65d3b57167f4096a5204b7&type=album)
+![Слияние newBranch в master](https://sun9-41.userapi.com/impf/kJzKUVX4bHxDtTTpS55FL45bdJ3xKFptnIHgkA/EEqQ0J6PpKs.jpg?size=378x150&quality=96&proxy=1&sign=65631be4eb65d3b57167f4096a5204b7&type=album)<br/>
 *Рис 5. Слияние newBranch в master*
 
 Следующим я создал файл changes.txt и создал пару коммитов, чтобы затем сделать - -hard откат коммитов:
