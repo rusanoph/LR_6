@@ -39,3 +39,7 @@
 
 ![Log 2](https://sun9-53.userapi.com/impf/42qBJn34wV2XSK2KixRaE5ZVip6t57ttMpJtbQ/SrlJF1aaaSE.jpg?size=627x567&quality=96&proxy=1&sign=819badd692252fd3ed84117b45c58a52&type=album)
 *Рис 8.  log`и консоли*
+
+В конце концов я дошёл до форматированного вывода логов. Я делал это командой `$ git log --pretty=format:"%h ; Date - %cd ; Author - %an ; Comment - %s"`:
+![История коммитов](https://sun9-66.userapi.com/impf/rOHQGByK3XGcnPzYUVYzzOZcYB-v2DmC8LxhzQ/3shJ2EwVSu0.jpg?size=1280x236&quality=96&sign=a7fcb3ca8bf05db7452f63ac8d9bbd50&type=album)
+*Рис 9. История коммитов*
