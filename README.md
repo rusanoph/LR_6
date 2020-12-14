@@ -30,3 +30,12 @@
 Следующим я создал файл changes.txt и создал пару коммитов, чтобы затем сделать - -hard откат коммитов:
 ![Рис 6. «Хард» откат последних 2-х коммитов](https://sun9-67.userapi.com/impf/22bh5N-u_YRP85iO3AB1A2H5923d3u4fOrpSSA/s_puPbOqiJc.jpg?size=561x287&quality=96&proxy=1&sign=76a910eb1e28ba847ebb399f9f1cf893&type=album)
 *Рис 6. «Хард» откат последних 2-х коммитов*
+
+Далее создаю веку для отчёта, пишу отчёт в формате .md и загружаю его в репозиторий.
+
+Следуящая пара скриншотов - история или же "логи" консольных команд, введённых во время выполнения лабораторной работы:
+![Log 1](https://sun9-49.userapi.com/impf/oG19DT7xK79SL5Jag-BakDTxPwmCLcm-UP_Yiw/pX9adPQw-4Q.jpg?size=627x562&quality=96&proxy=1&sign=ebed1f3f05c7d46a2d540c95a48fb9e0&type=album)
+*Рис 7.  log`и консоли*
+
+![Log 2](https://sun9-53.userapi.com/impf/42qBJn34wV2XSK2KixRaE5ZVip6t57ttMpJtbQ/SrlJF1aaaSE.jpg?size=627x567&quality=96&proxy=1&sign=819badd692252fd3ed84117b45c58a52&type=album)
+*Рис 8.  log`и консоли*
